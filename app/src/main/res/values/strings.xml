@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">StartCalculate</string>
+    <string name="start_calculator">Start Calculator</string>
 </resources>
